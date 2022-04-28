@@ -16,31 +16,31 @@ What is css frame ? Why css frame work? How to use  we use css frame works in ou
 
 ## Types of Css frameworks
 
--  ****Bootstrap****
+-  **Bootstrap**
 
 -  **Tailwind CSS**
 
-- ****Bulma****
+- **Bulma**
 
--  ****Foundation****
+-  **Foundation**
 
-- ****Pure****
+- **Pure**
 
-- ****Skeleton****
+- **Skeleton**
 
 - **Miligram**
 
-- ****Materialize****
+- **Materialize**
 
-- ****Susy****
+- **Susy**
 
-- ****UIkit****
+- **UIkit**
 
-- ****Semantic UI****
+- **Semantic UI**
 
-- ****Spectre****
+- **Spectre**
 
-- ****Primer****
+- **Primer**
 
 Well, have been able to list out some css framework above, we need to talk the remaining questions now , so let work along .
 
