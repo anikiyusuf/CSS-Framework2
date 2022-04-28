@@ -63,30 +63,47 @@ Over time , your project's requirements  will likely change. Although it's impos
 
 When choosing  any technology, it's always smart to consider its ease  of use. Even if you're fluent in CSS, learning any new technology requires a big upfront investment. Every moment that you spend  familiarizing yourself with your new framework is time that you could have invested directly into your project. 
 
-## Advantages of CSS Framework .
+## Advantages of CSS Framework 
 
 
--  It saves time .
+-  **It saves time**
 
-- It helps you build good habits.
+A CSS framework lays out the groundwork for you so you can start developing quicker.If you are work with a team you all have the same shared CSS code , so collaborative effort sped up as well.
 
-- They relive cross-browser concern .
+- It helps you build good habits
 
-- It reduce bug popping up .
 
-- Gives you clean  and symmetrical layouts.
+-  **They relive cross-browser concern**
+ CSS framework make your work look similar on all browser . It's already coded to look similar  across all browser , so you can focus on customizing and creating content rather than tweaking the base appearance  
+
+
+
+- **It reduce bug popping up**
+
+Using CSS framework will keep your code away from bugs most of the time. CSS framework will have to make the proper alignment to your code .
+
+
+- **Gives you clean  and symmetrical layouts**
+
+A grid-base  CSS framework set up multi-column arrangement with predefined pixel widths so you can focus on creating content rather than lining up blocks of text.
 
 
 ## Disadvantages of CSS Framework .
 
-- It changes the way you  write your HTML .
+- **It changes the way you  write your HTML**
 
-- Adds extra code .
+ CSS framework makes your code look differently from using the normal css style . It limit what you can design : layout sizes , grid width , button types ,style and anything else . 
 
-- Forces you to use the framework's semantics.
+- **Adds extra code**
 
-- You can potentially lose time .
+It highly unlikely that you'll use every features of a framework .If every byte is crucial , you"ll need to go in and strip away unused code in your CSS.
 
+- **Forces you to use the framework's semantics**
+By using a CSS framework, you're forced into semantic changes, especially if the framework uses a non-standard naming scheme.An  issue where it can be a bigger problem is if you're collaborating with other developers or creating for a client that will access the code ,they will have no idea what some of the names  are ,so they will need to be familiar with the framework 's semantics first .
+
+- **You can potentially lose time**
+
+This could be a case where your client wanting to use  a framework that you are not familiar with ,you will have to learn it for the benefit of the client this will course a further delay of the project. it will waste the time of the project ,your client and yourself. 
 
 ## Conclusion 
 All in all , are CSS Frameworks good ? Of course yes ,mo0st benefit from  the web development and design simplification that CSS frameworks give . But there will be a smaller subset who will stick to doing those tasks themselves to get precise control and result. However it does ultimately depend on if you are the automatic or manual transmission of web designers.
