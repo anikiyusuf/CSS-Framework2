@@ -68,24 +68,24 @@ When choosing  any technology, it's always smart to consider its ease  of use. E
 
 -  **It saves time**
 
-A CSS framework lays out the groundwork for you so you can start developing quicker.If you are work with a team you all have the same shared CSS code , so collaborative effort sped up as well.
+  A CSS framework lays out the groundwork for you so you can start developing quicker.If you are work with a team you all have the same shared CSS code , so collaborative effort sped up as well.
 
-- It helps you build good habits
+ 
 
 
 -  **They relive cross-browser concern**
- CSS framework make your work look similar on all browser . It's already coded to look similar  across all browser , so you can focus on customizing and creating content rather than tweaking the base appearance  
+  CSS framework make your work look similar on all browser . It's already coded to look similar  across all browser , so you can focus on customizing and creating content rather than tweaking the base appearance  
 
 
 
 - **It reduce bug popping up**
 
-Using CSS framework will keep your code away from bugs most of the time. CSS framework will have to make the proper alignment to your code .
+ Using CSS framework will keep your code away from bugs most of the time. CSS framework will have to make the proper alignment to your code .
 
 
 - **Gives you clean  and symmetrical layouts**
 
-A grid-base  CSS framework set up multi-column arrangement with predefined pixel widths so you can focus on creating content rather than lining up blocks of text.
+  A grid-base  CSS framework set up multi-column arrangement with predefined pixel widths so you can focus on creating content rather than lining up blocks of text.
 
 
 ## Disadvantages of CSS Framework .
@@ -96,10 +96,10 @@ A grid-base  CSS framework set up multi-column arrangement with predefined pixel
 
 - **Adds extra code**
 
-It highly unlikely that you'll use every features of a framework .If every byte is crucial , you"ll need to go in and strip away unused code in your CSS.
+ It highly unlikely that you'll use every features of a framework .If every byte is crucial , you"ll need to go in and strip away unused code in your CSS.
 
 - **Forces you to use the framework's semantics**
-By using a CSS framework, you're forced into semantic changes, especially if the framework uses a non-standard naming scheme.An  issue where it can be a bigger problem is if you're collaborating with other developers or creating for a client that will access the code ,they will have no idea what some of the names  are ,so they will need to be familiar with the framework 's semantics first .
+  By using a CSS framework, you're forced into semantic changes, especially if the framework uses a non-standard naming scheme.An  issue where it can be a bigger problem is if you're collaborating with other developers or creating for a client that will access the code ,they will have no idea what some of the names  are ,so they will need to be familiar with the framework 's semantics first .
 
 - **You can potentially lose time**
 
