@@ -1,9 +1,10 @@
 #   CSS FRAME WORK 
 
+![css framework img][image_ref_s361pzd8]
 
 ## What is CSS Frame work ?
 
-A **CSS framework** is a library allowing for easier, responsive  and more standards-compliant web design using Cascading Style Sheets language . A CSS Framework does this by containing predefined libraries of code . More functions and additional Javascript based functions, but are mostly design oriented and focused around interactive UI patterns.
+A **CSS framework** is a library allowing for easier, responsive  and more standards-compliant web design using Cascading Style Sheets language .
 
 
 
@@ -106,4 +107,4 @@ When choosing  any technology, it's always smart to consider its ease  of use. E
 This could be a case where your client wanting to use  a framework that you are not familiar with ,you will have to learn it for the benefit of the client this will course a further delay of the project. it will waste the time of the project ,your client and yourself. 
 
 ## Conclusion 
-All in all , are CSS Frameworks good ? Of course yes ,mo0st benefit from  the web development and design simplification that CSS frameworks give . But there will be a smaller subset who will stick to doing those tasks themselves to get precise control and result. However it does ultimately depend on if you are the automatic or manual transmission of web designers.
+All in all , are CSS Frameworks good ? Of course yes ,most benefit from  the web development and design simplification that CSS frameworks give . But there will be a smaller subset who will stick to doing those tasks themselves to get precise control and result. However it does ultimately depend on if you are the automatic or manual transmission of web designers.
